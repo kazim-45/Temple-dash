@@ -1,11 +1,11 @@
-📁 Project Structure
+Project Structure
 temple-dash/
 ├── index.html      # Main game file
 ├── style.css       # Styles
 ├── game.js         # Core game logic
 └── assets/         # Sprites, sounds
 
-🔮 Planned Features
+Planned Features
 
  Multiple character skins
  Power-ups (shield, magnet, slow-mo)
@@ -13,8 +13,8 @@ temple-dash/
  Global online leaderboard
 
 
-👤 Author
+Author
 Kazim — student, builder, game dev.
 
-📄 License
+License
 MIT — free to use, modify, and learn from.
