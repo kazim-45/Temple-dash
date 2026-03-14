@@ -8,7 +8,7 @@ A fast-paced browser-based endless runner where you sprint through ancient templ
 
 ## 🎮 Play Now
 
-👉 **[Play Temple Dash](https://kazim-45.github.io/Temple-dash)** — runs instantly in your browser, no install needed.
+👉 **[Play Temple Dash](https://kazim-45.github.io/Temple-dash/temple_dash.html)** — runs instantly in your browser, no install needed.
 
 ---
 
